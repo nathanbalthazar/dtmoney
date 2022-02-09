@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.div`
   display: grid;
@@ -6,29 +6,29 @@ export const Container = styled.div`
   gap: 2rem;
   margin-top: -10rem;
 
-  div {
+  div{
     background: var(--shape);
     padding: 1.5rem 2rem;
     border-radius: 0.25rem;
     color: var(--text-title);
 
-    header {
+    header{
       display: flex;
-      align-item: center;
+      align-items: center;
       justify-content: space-between;
     }
 
-    strong {
-        display: block;
-        margin-top: 1rem;
-        font-size: 2rem;
-        font-weight: 500;
-        line-height: 3rem;
+    strong{
+      display: block;
+      margin-top: 1rem;
+      font-size: 2rem;
+      font-weight: 500;
+      line-height: 3rem;
     }
 
-    &.highlight-background {
-        background: var(--green);
-        color: #FFF;
+    &.highlight-background{
+      background: var(--green);
+      color: #FFF;
     }
   }
 `;
