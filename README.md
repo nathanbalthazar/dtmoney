@@ -1,4 +1,4 @@
-# :heavy_dollar_sign: Projeto:
+## :heavy_dollar_sign: Projeto:
 
 DtMoney é um site para organizar suas finanças, adicionando gastos ou ganhos.
 
@@ -9,7 +9,7 @@ DtMoney é um site para organizar suas finanças, adicionando gastos ou ganhos.
 Projeto Ignite ReactJs, da <a href="https://rocketseat.com.br/"><em>Rocketseat</em></a>
 </div>
 
-# :rocket: Tecnologias:
+## :rocket: Tecnologias:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactJS](https://reactjs.org)
@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [MirageJS](https://miragejs.com/)
 - [Axios](https://github.com/axios/axios)
 
-# :computer: Visualizando o projeto:
+## :computer: Visualizando o projeto:
 
 ### Requisitos:
 
